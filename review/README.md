@@ -118,24 +118,24 @@ Here's an example article:
   <header>
     <h2>A Bit About Curry</h2>
   </header>
-    <p>
-      Curry is the word used to describe a wide variety of dishes originating
-      in parts of Asia. Curry is often characterised by an explosion of flavours
-      created by a variety of different spices. Smoe common combinations include
-      turmeric, cumin and chilli, or lime, coriander and chilli.
-    </p>
-    <p>
-      At my flat, we commonly cook indian and thai curries-generally vegetarian.
-      The favourite is a Palak Paneer, from scratch. This delicious curry is
-      made from pureed spinach and a type of indian cottage cheese called
-      Paneer. Paneer is relatively easy to make and tastes best when fresh.
-    </p>
-    <p>
-      <a href="https://coconutcraze.files.wordpress.com/2013/02/1-pk-pner.jpg">
-        <img width=400px
-          src="https://coconutcraze.files.wordpress.com/2013/02/1-pk-pner.jpg"
-          alt="a delicious Palak Paneer">
-      </a>
-    </p>
+  <p>
+    Curry is the word used to describe a wide variety of dishes originating
+    in parts of Asia. Curry is often characterised by an explosion of flavours
+    created by a variety of different spices. Smoe common combinations include
+    turmeric, cumin and chilli, or lime, coriander and chilli.
+  </p>
+  <p>
+    At my flat, we commonly cook indian and thai curries-generally vegetarian.
+    The favourite is a Palak Paneer, from scratch. This delicious curry is
+    made from pureed spinach and a type of indian cottage cheese called
+    Paneer. Paneer is relatively easy to make and tastes best when fresh.
+  </p>
+  <p>
+    <a href="https://coconutcraze.files.wordpress.com/2013/02/1-pk-pner.jpg">
+      <img width=400px
+        src="https://coconutcraze.files.wordpress.com/2013/02/1-pk-pner.jpg"
+        alt="a delicious Palak Paneer">
+    </a>
+  </p>
 </article>
 ```
