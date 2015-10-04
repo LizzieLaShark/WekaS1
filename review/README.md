@@ -22,12 +22,14 @@ Next, see how you have multiple blank lines? This is a waste of space and just l
 
 Here's what the `<head>` section of your document should look like:
 
+(Also, note that we shouldn't use `&` in our content as that symbol has special meaning in HTML. So instead we use `&amp;`&mdash;see below.)
+
 ```html
 <head>
   <meta charset="utf-8">
   <meta name="viewport" conent="width=device-width, initial-scael=1">
 
-  <title>Curries, Code & Flatmates (goes in the tab on the browser)</title>
+  <title>Curries, Code &amp; Flatmates (goes in the tab on the browser)</title>
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
