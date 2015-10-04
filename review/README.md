@@ -8,7 +8,7 @@ This is excellent. Do you feel that you understand these requirements? If you ca
 
 This one needs some work, but is pretty good overall.
 
-The most important issue is formatting. It is extremely important that you begin to develop code coding habits from day 1. If you develop poor habits, you will suffer throughout your career from them. The difference is literally huge. Even if poor habits cost you only half an hour a day, multiply that across a 20-year career and you're talking 2500 wasted hours! That's more than a *year* of wasted work time. You don't want that.
+The most important issue is formatting. It is extremely important that you begin to develop code coding habits from Day One. If you develop poor habits, you will suffer throughout your career from them. The difference is literally huge. Even if poor habits cost you only half an hour a day, multiply that across a 20-year career and you're talking 2500 wasted hours! That's more than a *year* of wasted work time. You don't want that.
 
 So take a look at your index.html file. Can you see that it's a mess? This is not a rhetorical question. Some people can see mess and for some people it's just invisible. What kinds of things are messy?
 
