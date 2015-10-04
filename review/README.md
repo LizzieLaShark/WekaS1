@@ -67,6 +67,8 @@ Here's what the `<head>` section of your document should look like:
 </head>
 ```
 
+Note: For CSS class and ID names, use "train-case". That's all lower case with words separated by hyphens. So `website-title` not `WebsiteTitle`. You'll be learning many different styles for different uses (the style you used is called PascalCase or BumpyCase or sometimes UpperCamelCase). Each language has it's own rules. Joy, eh?
+
 Can you see the difference? (Again, some people cannot, so let us know now if you can't.) Go back through your `index.html` file line by line and try cleaning it up.
 
 Also, be very careful about what goes into what. The arrangement of HTML is always an `<html>` element split into a `<head>` element and a `<body>` element. Invisible code goes into the head (metadata). Visible code goes into the body. But everything goes into *either* the head or the body. Like this:
